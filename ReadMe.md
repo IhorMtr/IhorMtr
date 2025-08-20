@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ihor 👋<br><br>🎓 I’m 19 and currently studying for a Bachelor’s degree in Computer Science.<br>💻 I’m working on becoming a Fullstack Developer and actively looking for my first job in the field.<br><br>🚀 My stack:<br><br>Frontend: HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js<br><br>Backend: Node.js (with Express)<br><br>🌱 Right now I’m focusing on improving my backend skills and learning how to build scalable applications with Node.js and Express.<br>🤝 I’m open to collaborating on projects that combine clean UI with solid backend logic.<br><br>⚡ My goal is to grow as a developer and contribute to building modern, user-friendly web applications.
+Hi, I’m Ihor 👋<br><br>🎓 I’m 19 and currently studying for a Bachelor’s degree in Computer Science.<br>💻 I’m working on becoming a Fullstack Developer and actively looking for my first job in the field.<br><br>🌱 Right now I’m focusing on improving my backend skills and learning how to build scalable applications with Node.js and Express.<br>🤝 I’m open to collaborating on projects that combine clean UI with solid backend logic.<br><br>⚡ My goal is to grow as a developer and contribute to building modern, user-friendly web applications.
 
 
 ## 🌐 Socials:
